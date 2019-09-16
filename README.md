@@ -3,7 +3,6 @@
 This repo shows the source code of EMNLP 2019 paper: **Meta Relational Learning for Few-Shot Link Prediction in Knowledge Graphs** [[arxiv](https://arxiv.org/abs/1909.01515)]. In this work, we propose a Meta Relational Learning (MetaR) framework to do the common but challenging few-shot link prediction in KGs, namely predicting new triples about a relation by only observing a few associative triples. 
 
 <p align="center"><img src='./imgs/overview.png' width='70%' /></p>
-
 ## Running the Experiments
 
 ### Requirements
@@ -163,6 +162,3 @@ Under the default setting of parameters in the source code, we can get the follo
   year    = {2019}
 }
 ```
-
-
-
