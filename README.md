@@ -156,10 +156,19 @@ Under the default setting of parameters in the source code, we can get the follo
 ## Cite
 
 ```
-@article{chen2019meta,
-  title	  = {Meta Relational Learning for Few-Shot Link Prediction in Knowledge Graphs},
-  author  = {Mingyang Chen and Wen Zhang and Wei Zhang and Qiang Chen and Huajun Chen},
-  journal = {arXiv preprint arXiv:1909.01515},
-  year    = {2019}
+@inproceedings{chen-etal-2019-meta,
+    title     = "Meta Relational Learning for Few-Shot Link Prediction in Knowledge Graphs",
+    author    = "Chen, Mingyang  and
+                 Zhang, Wen  and
+                 Zhang, Wei  and
+                 Chen, Qiang  and
+                 Chen, Huajun",
+    booktitle = "Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th                            International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)",
+    month     = nov,
+    year      = "2019",
+    address   = "Hong Kong, China",
+    publisher = "Association for Computational Linguistics",
+    url       = "https://www.aclweb.org/anthology/D19-1431",
+    pages     = "4208--4217"
 }
 ```
