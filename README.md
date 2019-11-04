@@ -163,7 +163,7 @@ Under the default setting of parameters in the source code, we can get the follo
                  Zhang, Wei  and
                  Chen, Qiang  and
                  Chen, Huajun",
-    booktitle = "Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th                            International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)",
+    booktitle = "Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)",
     month     = nov,
     year      = "2019",
     address   = "Hong Kong, China",
