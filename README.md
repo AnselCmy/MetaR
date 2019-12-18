@@ -87,7 +87,7 @@ Folder ``./log`` and ``./state`` will be make after starting an expariment. The 
 
 The evaluation results and fianl results on dev set and test set will be logged at ```{--log_dir}/{--prefix}/res.log```.
 
-#### TensoboardX
+#### TensorboardX
 
 ```
 tensorboard --logdir {log_dir}
